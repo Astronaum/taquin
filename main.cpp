@@ -1,0 +1,37 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include"taquin.h"
+#define faux   0
+#define vrai   1
+
+int menu () {
+
+  printf("\033[1;32m\n------------Sliding Puzzle Resolver------------ \n\n\033[0m");
+  printf("\033[1;32m 0 - Terminate the program\n\033[0m");
+  printf("\033[1;32m 1 - A* Resolution \n\033[0m");
+  printf("\033[1;32m 2 - IDA* Resolution \n\n\033[0m");
+  printf("\033[1;32m Your choice? \n\n\033[0m");
+  int cod; scanf ("%d", &cod); getchar();
+  printf ("\n");
+  return cod;
+}
+
+int main(){
+booleen fini = faux;
+  while (!fini) {
+    switch ( menu() ) {
+    case 0:
+      fini = vrai;
+      break;
+    case 1: { //A* Resolution
+        AEtoile();
+      } break;
+   case 2: {  // IDA* Resolution
+      IDAEtoile();
+
+    } break;
+    }
+}
+ return 0;
+}

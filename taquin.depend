@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1683489341 source:c:\users\astro\desktop\taquin\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"taquin.h"
+
+1683490070 c:\users\astro\desktop\taquin\taquin.h
+
+1683467746 source:c:\users\astro\desktop\taquin\liste.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1683489514 c:\users\astro\desktop\taquin\liste.h
+	"taquin.h"
+
+1683487247 source:c:\users\astro\desktop\taquin\taquin.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1683504369 source:c:\users\astro\desktop\miniprojet01_aymane_kabba\taquin\liste.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1683489514 c:\users\astro\desktop\miniprojet01_aymane_kabba\taquin\liste.h
+	"taquin.h"
+
+1683490070 c:\users\astro\desktop\miniprojet01_aymane_kabba\taquin\taquin.h
+
+1683489341 source:c:\users\astro\desktop\miniprojet01_aymane_kabba\taquin\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"taquin.h"
+
+1683503067 source:c:\users\astro\desktop\miniprojet01_aymane_kabba\taquin\taquin.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
