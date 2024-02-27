@@ -3,6 +3,7 @@
 ---
 
 Ce script implémente l'algorithme A* et l'algorithme IDA* pour résoudre un puzzle de taquin. Voici un aperçu des principales fonctionnalités et structures de données utilisées dans le script :
+![Menu](menu.png)
 
 #### Structures de données :
 
