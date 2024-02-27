@@ -31,4 +31,4 @@ Ce script implémente l'algorithme A* et l'algorithme IDA* pour résoudre un puz
 
 ---
 
-Ce script est utile pour résoudre des puzzles de taquin en utilisant des techniques d'intelligence artificielle telles que l'algorithme A* et l'algorithme IDA*. Il fournit une implémentation claire et modulaire pour résoudre efficacement ces types de problèmes.
+Ce script est utile pour résoudre des puzzles de taquin en utilisant A* et IDA*.
